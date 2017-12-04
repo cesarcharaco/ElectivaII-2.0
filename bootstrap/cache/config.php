@@ -8,7 +8,7 @@
     'timezone' => 'UTC',
     'locale' => 'en',
     'fallback_locale' => 'en',
-    'key' => 'base64:jgjyv3pgX7Smt+/ItYK7ud2SunxwkdfZuXmxhJNwMKg=',
+    'key' => 'base64:Tm112mbzONz6z8kh7/0ru3DkJlEPZh6SHe4JAPDepD0=',
     'cipher' => 'AES-256-CBC',
     'log' => 'single',
     'log_level' => 'debug',
@@ -429,7 +429,7 @@
     array (
       'DOMPDF_FONT_DIR' => 'C:\\xampp\\htdocs\\ElectivaII-2.0\\storage\\fonts/',
       'DOMPDF_FONT_CACHE' => 'C:\\xampp\\htdocs\\ElectivaII-2.0\\storage\\fonts/',
-      'DOMPDF_TEMP_DIR' => 'C:\\Users\\chago\\AppData\\Local\\Temp',
+      'DOMPDF_TEMP_DIR' => 'C:\\Users\\Heivan\\AppData\\Local\\Temp',
       'DOMPDF_CHROOT' => 'C:\\xampp\\htdocs\\ElectivaII-2.0',
       'DOMPDF_UNICODE_ENABLED' => true,
       'DOMPDF_ENABLE_FONT_SUBSETTING' => false,
